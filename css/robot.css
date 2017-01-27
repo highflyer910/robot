@@ -100,10 +100,10 @@ body {
 
 .blink {
 
-	animation:blink 5s infinite;
-	-moz-animation:blink 5s infinite; /* Firefox */
-	-webkit-animation:blink 5s infinite; /* Safari and Chrome */
-	-o-animation:blink 5s infinite; /* Opera */
+	animation:blink 3s infinite;
+	-moz-animation:blink 3s infinite; /* Firefox */
+	-webkit-animation:blink 3s infinite; /* Safari and Chrome */
+	-o-animation:blink 3s infinite; /* Opera */
 }
 
 .bounce {
@@ -112,7 +112,6 @@ body {
 	-webkit-animation: bounce 0.5s; 
 	-o-animation: bounce 0.5s; 
 }
-
 
 
 
