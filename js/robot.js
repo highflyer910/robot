@@ -68,7 +68,9 @@ $(document).ready(function () {
 				'Don\'t make me hit you!',
 				'Don\'t poke me if you don\'t mean it.',
 				'Get out of my personal space!',
-				'Do not touch!'];
+				'Do not touch!'
+				'Why do you do that???'
+				'Help anyone!'];
 
 	$('.text').focus();
 
