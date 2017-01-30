@@ -8,8 +8,7 @@
 })(jQuery);
 
 $(document).ready(function () {
-	var 
-	/*random = ['I am not a robot, I am a unicorn!',
+	/*var random = ['I am not a robot, I am a unicorn!',
 				  'Who likes ice cream? I do!',
 				  'I\'m a pretty, pretty princess!',
 				  'You are a robot!',
@@ -54,12 +53,11 @@ $(document).ready(function () {
 				  'Surely the caged whale knows nothing of the mighty depths.'],*/
 		
 		poke = ['Don\'t poke me, bro!',
-		        'Hey! Who are you???'
 				'I don\'t really like that.',
 				'Knock it off!',
 				'You are a jerk!',
 				'Can\'t we have dinner first?',
-				'Keep you\'re hands to yourself, please.',
+				'Keep your hands to yourself, please.',
 				'NO!',
 				'Well aren\'t you handsy!',
 				'Does this look like Facebook?',
@@ -69,10 +67,7 @@ $(document).ready(function () {
 				'Don\'t make me hit you!',
 				'Don\'t poke me if you don\'t mean it.',
 				'Get out of my personal space!',
-				'Do not touch!'
-				'Why do you do that???'
-				'Help anyone!'
-				'Stop it!'];
+				'Do not touch!'];
 
 	$('.text').focus();
 
