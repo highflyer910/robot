@@ -54,6 +54,7 @@ $(document).ready(function () {
 				  'Surely the caged whale knows nothing of the mighty depths.'],*/
 		
 		poke = ['Don\'t poke me, bro!',
+		        'Hey! Who are you???'
 				'I don\'t really like that.',
 				'Knock it off!',
 				'You are a jerk!',
@@ -70,7 +71,8 @@ $(document).ready(function () {
 				'Get out of my personal space!',
 				'Do not touch!'
 				'Why do you do that???'
-				'Help anyone!'];
+				'Help anyone!'
+				'Stop it!'];
 
 	$('.text').focus();
 
