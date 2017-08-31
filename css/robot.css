@@ -1,8 +1,9 @@
 body {
 	font-family: 'VT323', monospace;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 	text-align: center;
-	background: #99BBAD;
+	color: #3C3352;
+	background: #FFED8F;
 }
 
 #container {
@@ -18,11 +19,11 @@ body {
 
 .head {
 	position: relative;
-	height: 210px;
+	height: 250px;
 	width: 250px;
-	border-radius: 30%;
+	border-radius: 20%;
 	margin: 0 auto 30px;
-	background-color: #6c7f8a;
+	background-color: #359768;
 	box-shadow: 1px 1px 10px rgba(255,255,255,0.6) inset,
 				-1px -1px 10px rgba(0,0,0,0.6) inset,
 				0 0 3px rgba(0,0,0,0.6) inset;
@@ -30,15 +31,15 @@ body {
 }
 
 .eye_container {
-	padding-top: 30px;
+	padding-top: 50px;
 }
 
 .eye {
 	position: absolute;
 	width: 60px;
 	height: 60px;
-	border-radius: 50%;
-	background-color: #222;
+	border-radius: 30px;
+	background-color: #3C3352;
 }
 .left {
 	left: 45px;
@@ -53,18 +54,19 @@ body {
 	left: 6px;
 	height: 48px;
 	width: 48px;
-	border-radius: 50%;
-	background-color: #32db46;
+	border-radius: 30px;
+	background-color: #A7D46F;
 }
 
 .mouth {
 	position: absolute;
-	top: 100px;
-	left: 70px;
-	height: 15px;
-	width: 110px;
+	top: 120px;
+	left: 75px;
+	height: 10px;
+	width: 80px;
 	margin-top: 30px;
-	background-color: #222;
+	border: 10px solid #3C3352;
+	background-color: #f9f4d6;
 	
 }
 
@@ -72,31 +74,10 @@ body {
 	margin: 0 auto 0; 
 	border-radius: 50%;
 	height: 10px;
-	width: 270px;
+	width: 200px;
 	background-color: rgba(0,0,0,0.1);
 	box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
-
-/*input {
-	margin: 80px -10px;
-}
-
-.btn {
-	border: none;
-	font-size: 16px;
-	padding: 7px 10px;
-	color: white;
-	text-shadow: 0 0 1px rgba(0,0,0,0.4);
-	background-color: #e00349;
-	cursor: pointer;
-}
-
-.text {
-	font-size: 16px;
-	padding: 5px;
-	width: 300px;
-
-}*/
 
 .blink {
 
