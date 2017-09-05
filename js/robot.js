@@ -13,6 +13,7 @@ $(document).ready(function () {
 				'Keep your hands to yourself, please.',
 				'NO!',
 				'That is rude.',
+				'Don\'t you want to get me a drink first',
 				'No touching!',
 				'Bad!',
 				'Don\'t make me hit you!',
